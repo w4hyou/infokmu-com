@@ -8,5 +8,5 @@ width: 310px;
 overflow: auto;
 -webkit-box-shadow: 0 0 10px black;
 -moz-box-shadow: 0 0 10px black;
-box-shadow: 0 0 10px black;}
+  box-shadow: 0 0 10px black;}.you_wrap-outer-scrollable{position:absolute;top:0;right:0;bottom:0;left:0;overflow:auto}
 .scroll-area{outline:0;overflow:auto;position:relative}.scroll-area .scroll-content{position:relative;cursor:auto}.scroll-area .scrollbar{display:block;position:absolute}.scroll-area .scrollbar span{display:block}.scroll-area .track{height:100%;position:relative}.scroll-area .thumb{height:16px;width:16px;cursor:pointer;overflow:hidden;position:absolute;z-index:4}.scroll-area .thumb span{background-color:#333;position:absolute}.scroll-area .thumb:hover span,.scroll-area:focus .thumb span{background-color:#3f3f3f}.scroll-area .thumb:active span,.scroll-area .thumb.hold span{background-color:#444}.scroll-area .disable{display:none}.y-axis{padding-right:20px;height:100%}.y-axis.js{padding-right:0;height:auto}.y-axis .scroll-inner{height:100%;padding-right:20px}.y-axis .scrollbar{top:0;right:0;bottom:0;width:8px}.y-axis .thumb{top:0;right:0;left:0;margin-left:-5px;text-align:center}.y-axis .thumb span{width:4px;top:2px;bottom:2px;left:7px}
